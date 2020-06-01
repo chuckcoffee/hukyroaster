@@ -1,9 +1,9 @@
 # hukyroaster
 
 
-Huky Stove – Gas Automation				Rev May 31/2020
+**Huky Stove – Gas Automation**				**Rev May 31/2020**
 
-Materials ~$47.00
+**Materials ~$47.00**
 -	Arduino 
 -	Timing Belt and Pulley
 -	Scrap wood used for motor mount and track system
@@ -22,7 +22,7 @@ https://www.amazon.ca/gp/product/B07PBXGL74/ref=ppx_yo_dt_b_asin_title_o08_s00?i
 
 
  
-Initial Setup Steps
+**Initial Setup Steps**
 1.	Download python 2.7 https://www.python.org/downloads/release/python-278/
 2.	Load Arduino script onto Arduino (roaster.ino)
 	a.	Test motor function
