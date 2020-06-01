@@ -19,9 +19,10 @@ https://www.amazon.ca/gp/product/B07PBXGL74/ref=ppx_yo_dt_b_asin_title_o08_s00?i
 ![belt](pics/belt.png?raw=true)
 
 <h2>Files Used</h2>
-roaster.ino - Program to run on arduino
-arduinoCommunicator.py - Runs in bg at start, receives all commands from artisanprog calls, sends to arduino over serial connection 
-artisanprog.py - Sends commands to arduinoCommunicator on button presses or events
+roaster.ino - Program to run on arduino  <br>
+arduinoCommunicator.py - Runs in bg at start, receives all commands from artisanprog calls, sends to arduino over serial connection <br>
+artisanprog.py - Sends commands to arduinoCommunicator on button presses or events  <br>
+e.g. artisanprog.py KPAI 50 (Set motor position to 50% of kpa_max)
 
 
  
