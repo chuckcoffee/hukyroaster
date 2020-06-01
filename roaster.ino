@@ -10,10 +10,10 @@
 #define THERMO_ET_CS 51
 #define THERMO_ET_CLK 53
 
-#define MOTOR_PIN1 22
-#define MOTOR_PIN2 24
-#define MOTOR_PIN3 26
-#define MOTOR_PIN4 28
+#define MOTOR_PIN1 2
+#define MOTOR_PIN2 3
+#define MOTOR_PIN3 4
+#define MOTOR_PIN4 5
 
 #include <max6675.h>
 
